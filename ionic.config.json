@@ -1,0 +1,8 @@
+{
+  "name": "offlineapp-jga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a5f6224b"
+}
